@@ -39,6 +39,10 @@ Impartido por Santiago Espinosa ([Dataira](http://dataira.com/es/)) y organizado
 
 [Cambiar cabeceras HTML con Python](https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/)
 
+#### Proxies
+
+[Urllib Proxies](https://docs.python.org/3.5/howto/urllib2.html#proxies)
+
 #### Tutorials
 
 [How to fake and rotate User Agents using Python 3](https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/)
