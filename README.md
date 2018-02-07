@@ -38,3 +38,9 @@ Impartido por Santiago Espinosa ([Dataira](http://dataira.com/es/)) y organizado
 [Cabeceras HTML](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 
 [Cambiar cabeceras HTML con Python](https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/)
+
+#### Tutorials
+
+[How to fake and rotate User Agents using Python 3](https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/)
+
+[How to Solve Simple Captchas](https://www.scrapehero.com/how-to-solve-simple-captchas-using-python-tesseract/)
