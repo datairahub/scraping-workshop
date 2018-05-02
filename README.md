@@ -109,7 +109,7 @@ Los ejercicios están preparados para ejecutarse con Python2, pero con pequeños
 
 #### Introducción a HTML
 
-[Curso HTML básico de Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b), [Mensajes HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages), [Tipos de peticiones HTML](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), [Cabeceras HTML](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields), [Cambiar cabeceras HTML con Python](https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/)
+[Curso HTML básico de Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b), [Mensajes HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages), [Tipos de peticiones HTML](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), [Cabeceras HTML](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 
 #### Tutoriales
 
