@@ -8,7 +8,7 @@ Taller de extracción automatizada de datos de páginas web
 
 **II Edición**: 11-12 de mayo de 2018 [Aedi](http://www.aedisevilla.es/), (WorkInCompany, Sevilla). [Enlace a la convocatoria](http://www.aedisevilla.es/events/web-scraping/)
 
-## Extructura
+## Estructura
 
 ##### I Bloque 
 - (1h) Introducción: presentación de la actividad, puesta en contexto y explicación del objetivo del taller.
