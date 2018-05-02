@@ -23,9 +23,9 @@ Taller de extracción automatizada de datos de páginas web
 
 - Tener python2 instalado
 
-Los ejercicios están preparados para ejecutarse con Python 3. Si no lo tienes instalado en tu portátil, te pedimos que lo instales antes del taller para aprovechar mejor el tiempo que estemos juntos. Según el sistema operativo que tengas, puedes seguir una de los siguientes tutoriales:
+Los ejercicios están preparados para ejecutarse con Python2, pero con pequeños cambios puede ejecutarse con Python3. Si no lo tienes instalado en tu portátil, te pedimos que lo instales antes del taller para aprovechar mejor el tiempo que estemos juntos. Según el sistema operativo que tengas, puedes seguir una de los siguientes tutoriales:
 
-#### Linux
+### Linux
 
 **Instalar python**
 - Abre una terminal
@@ -53,7 +53,7 @@ Los ejercicios están preparados para ejecutarse con Python 3. Si no lo tienes i
     sudo apt-get install python-pip
     ```
 
-#### Windows
+### Windows
 
 **Instalar python**
 - Descarga python pinchando [aqui](https://www.python.org/downloads/release/python-2715/)
@@ -86,7 +86,7 @@ Los ejercicios están preparados para ejecutarse con Python 3. Si no lo tienes i
 
 > Windows 10: para instalar un paquete, usar `py -m pip install bs4`
 
-#### Mac
+### Mac
 **Instalar python**
 - Descarga python pinchando en este [enlace](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
 - Ejecuta el archivo descargado y sigue las instrucciones.
