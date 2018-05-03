@@ -4,9 +4,13 @@ Taller de extracción automatizada de datos de páginas web
 
 *Web scraping* es una técnica que emplea diferentes tecnologías para extraer datos o información de una página web. Se usa para recoger datos sin estructura y convertirlos en datos estructurados para posteriormente ser tratados en bases de datos u hojas de cálculo. El taller es una aproximación práctica al *scraping* con el objetivo de permitir a los asistentes el tratamiento de información útil para sus propios proyectos.
 
-**I Edición**: 6-7 febrero 2018 [Montera34](https://montera34.com/), [Hirikilabs](http://hirikilabs.tabakalera.eu/), (Tabakalera, San Sebastián). [Enlace a la convocatoria](https://www.tabakalera.eu/es/web-scraping-como-extraer-datos-estructurados-de-una-web)
+**I Edición**: 6-7 febrero 2018 [Montera34](https://montera34.com/), [Hirikilabs](http://hirikilabs.tabakalera.eu/), (Tabakalera, San Sebastián)
+- [Enlace a la convocatoria](https://www.tabakalera.eu/es/web-scraping-como-extraer-datos-estructurados-de-una-web) (Hirikilabs)
+- [Enlace a la convocatoria](https://montera34.com/project/liberar-datos-scraping-hirikilabs/) (Montera34)
+- [Wiki de la sesión](https://wiki.montera34.com/taller-web-scraping-hirikilabs)
 
-**II Edición**: 11-12 de mayo de 2018 [Aedi](http://www.aedisevilla.es/), (WorkInCompany, Sevilla). [Enlace a la convocatoria](http://www.aedisevilla.es/events/web-scraping/)
+**II Edición**: 11-12 de mayo de 2018 [Aedi](http://www.aedisevilla.es/), (WorkInCompany, Sevilla).
+- [Enlace a la convocatoria](http://www.aedisevilla.es/events/web-scraping/)
 
 ## Estructura
 
@@ -19,11 +23,17 @@ Taller de extracción automatizada de datos de páginas web
 - (3h) Desarrollo scraper: Continuación de la sesión del día anterior.
 - (1h) Introducción a técnicas avanzadas de scraping: Ejecución de Javascript, uso de proxies, otras cuestiones surgidas en el desarrollo del taller.
 
-## Requerimientos
+## Preparación previa
 
+**Requerimientos**
 - Tener python2 instalado
 
-Los ejercicios están preparados para ejecutarse con Python2, pero con pequeños cambios puede ejecutarse con Python3. Si no lo tienes instalado en tu portátil, te pedimos que lo instales antes del taller para aprovechar mejor el tiempo que estemos juntos. Según el sistema operativo que tengas, puedes seguir una de los siguientes tutoriales:
+**Recomendaciones**
+- Tener instalado algún editor de código ([Sublime Text](https://www.sublimetext.com/3), [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/download/v7.5.6.html), u otros)
+
+Si no lo tienes instalado en tu portátil, te pedimos que lo instales antes del taller para aprovechar mejor el tiempo que estemos juntos. Según el sistema operativo que tengas, puedes seguir una de los siguientes tutoriales:
+
+>Los ejercicios están preparados para ejecutarse con Python2, pero con pequeños cambios puede ejecutarse con Python3
 
 ### Linux
 
