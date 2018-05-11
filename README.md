@@ -119,6 +119,8 @@ Si no lo tienes instalado en tu portátil, te pedimos que lo instales antes del 
 
 #### Introducción a HTML
 
+[Selectores CSS](https://css-tricks.com/how-css-selectors-work/)
+
 [Curso HTML básico de Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b), [Mensajes HTML](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages), [Tipos de peticiones HTML](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), [Cabeceras HTML](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 
 #### Tutoriales
