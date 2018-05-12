@@ -7,7 +7,7 @@ outputpath = 'links.csv'
 with open(outputpath, 'w') as outfile:
 
     writer = csv.writer(outfile)
-    for counter in range(1,5):
+    for counter in range(1,10):
 
         url = 'https://www.meneame.net/?page='+str(counter)
 

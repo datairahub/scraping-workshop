@@ -1,7 +1,7 @@
 import urllib2
 from bs4 import BeautifulSoup
 
-url = 'https://www.meneame.net/'
+url = 'https://www.meneame.net/?page=2'
 
 # Get URL
 response = urllib2.Request(url)

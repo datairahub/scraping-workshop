@@ -1,7 +1,7 @@
 import urllib2
 from bs4 import BeautifulSoup
 
-for counter in range(1,10):
+for counter in range(1,11):
 
 	url = 'https://www.meneame.net/?page='+str(counter)
 
