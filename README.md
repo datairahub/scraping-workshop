@@ -23,7 +23,7 @@ Taller de extracción automatizada de datos de páginas web
 ##### Recomendaciones
 - Tener instalado algún editor de código (como [VSCode](https://code.visualstudio.com/))
 
-> Los ejercicios están preparados para ejecutarse con Python2, pero con pequeños cambios puede ejecutarse con Python3
+> Los ejercicios están preparados para ejecutarse con Python3, pero con algunos cambios puede ejecutarse con Python2
 
 ### Instalación en Windows
 
