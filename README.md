@@ -28,7 +28,7 @@ Taller de extracción automatizada de datos de páginas web
 ### Instalación en Windows
 
 ##### Instalar python
-- Descarga python pinchando [aqui](https://www.python.org/downloads/release/python-2715/)
+- Descarga python pinchando [aqui](https://www.python.org/downloads/)
 - Ejecuta el archivo descargado y sigue las instrucciones.
 - Si te da error, intenta seguir este [tutorial](https://www.quora.com/How-do-I-install-Python-in-Windows-8-1)
 - Confirmar tecleando en consola CMD:
@@ -38,7 +38,7 @@ Taller de extracción automatizada de datos de páginas web
 
 ##### Instalar pip
 - Sigue estas [instrucciones](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows#12476379)
-- Si te da error, intenta añadir al PATH la localización de pip. Prueba a meter el full path:  `C:\Python27\Scripts\pip`
+- Si te da error, intenta añadir al PATH la localización de pip. Prueba a meter el full path:  `C:\Python39\Scripts\pip`
 - Confirmar tecleando en la consola de python:
     ```python
     pip import
@@ -54,7 +54,7 @@ Taller de extracción automatizada de datos de páginas web
     ```
 - Si da error, tecleando
     ```cmd
-    C:\Python27\Scripts\pip install nombre_del_modulo
+    C:\Python39\Scripts\pip install nombre_del_modulo
     ```
     > Windows 10: para instalar un paquete, usar `py -m pip install nombre_del_modulo`
 
