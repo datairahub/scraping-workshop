@@ -1,6 +1,10 @@
-import urllib2
+from urllib import request
 import json
 import csv
+
+"""
+Script para buscar en tripadvisor por coordenadas
+"""
 
 outputpath = 'links.csv'
 
@@ -11,18 +15,16 @@ headers = {
 }
 
 # Get URL
-response = urllib2.Request(url, headers=headers)
-pagedata = urllib2.urlopen(response)
+response = request.Request(url, headers=headers)
+pagedata = request.urlopen(response)
 response_read = pagedata.read()
 
-respuestajson = json.loads(response_read)
+response_json = json.loads(response_read)
 
-with open(outputpath, 'w') as outfile:
-    writer = csv.writer(outfile)
-
-    for hotel in respuestajson['hotels']:
-        writer.writerow([
-            hotel['customHover']['title'].encode('utf-8'),
-            hotel['lat'],
-            hotel['lng']
-        ])
+for hotel in response_json['hotels']:
+    print(
+        hotel['customHover']['title'],
+        hotel['lat'],
+        hotel['lng'],
+        '\n'
+    )

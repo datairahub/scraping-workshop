@@ -2,6 +2,13 @@
 import requests
 import json
 
+"""
+Script para buscar por palabras en pc componentes y
+mostrar nombre y precio de los resultados
+"""
+
+BUSQUEDA = 'pantalla hd'
+
 headers = {
     'accept': 'application/json',
     'Accept-Encoding': 'gzip, deflate, br',
@@ -18,15 +25,11 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
 }
 
-
 url = 'https://bewoyx1cf1-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20vanilla%20JavaScript%20(lite)%203.32.0%3Binstantsearch.js%203.0.0%3BJS%20Helper%202.26.1&x-algolia-application-id=BEWOYX1CF1&x-algolia-api-key=47978d8b445ceaceb718dd842d434099&x-algolia-usertoken=anonymous-e1e83c34-588f-48ff-8c3c-99e201f0610f'
 
-busqueda = 'intel nuc'
-busqueda = busqueda.replace(' ', '%20')
-
+busqueda = BUSQUEDA.replace(' ', '%20')
 
 for n in range(3):
-
     data = {
         "requests": [{
             "indexName":"pccomponentes:es",
@@ -39,6 +42,5 @@ for n in range(3):
     resultados = response['results'][0]['hits']
 
     for resultado in resultados:
-        print(resultado['title'])
-        print(resultado['price']['amount'])
+        print(resultado['price']['amount'], '-', resultado['title'])
         print('')
